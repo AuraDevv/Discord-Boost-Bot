@@ -1,0 +1,10 @@
+#THIS DOESNT COME WITH A JOINER, THIS IS A SIMPLE TOOL
+
+Put Your Nitron Tokens In tokens.txt
+This tool Will Attempt With The Amount Of Boosts You Enter
+Tool Doesnt Lock Tokens
+
+This doesnt REQUIRE ANYTHING BUT NITRO TOKENS
+
+Developer: Cook1e#2168
+Server: https://discord.gg/superboosts

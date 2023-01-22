@@ -8,7 +8,7 @@ colorama.init()
 
 os.system('cls')
 os.system(f'mode con: cols=106 lines=30')
-sys.stdout.write("\x1b]2;DiscBoost | #DONT BUY FROM SKIDS | Free Boost Bot | Learn Dont Skid\x07")
+sys.stdout.write("\x1b]2;DiscBoost\x07")
 
 class bot:
 
@@ -22,7 +22,6 @@ class bot:
 █  █  ▐█  ▀▄▄▄▄▀    █▄  ▄▀ █  ▄▀ ▀████ ▀████  ▀▄▄▄▄▀       █     
 ███▀   ▐            ▀███▀  ███                            ▀      
                                                                            
-                                         {Fore.BLUE}Cook1e#2168{Fore.RESET}
           ''')
 
         self.serverid = input("Enter The Server ID: ")
